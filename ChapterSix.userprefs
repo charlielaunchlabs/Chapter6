@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="iOS/ChapterSix.iOS.csproj">
+  <MonoDevelop.Ide.ItemProperties.ChapterSix.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C3B3234B-BAE2-4A0E-8E64-FCE5772F4147" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChapterSix/MyPage.cs">
+    <Files>
+      <File FileName="ChapterSix/ChapterSix.cs" Line="10" Column="4" />
+      <File FileName="ChapterSix/MyPage.cs" Line="18" Column="46" />
+      <File FileName="ChapterSix/FirstContent.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChapterSix.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+</Properties>
